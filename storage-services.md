@@ -34,6 +34,6 @@
   - This is used when you want to move your inpremise data to the cloud.
   - You will reciece the device from aws, copy you inprimise data to the device and send back to amazon, where they will move the data from the snowball deveice to cloud storage (such as s3)
 
-<div align="center"><img src ="https://www.allthingsdistributed.com/images/arch_diagram_storagegateway.png" /></div>
+<div align="center"><img src ="https://github.com/CharlesRajendran/aws-training/blob/master/images/7.JPG" /></div>
   
 
