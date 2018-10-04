@@ -1,6 +1,7 @@
 - #### [Amazon RDS](https://github.com/CharlesRajendran/aws-training/blob/master/aws-rds.md)
   - Scalable Relational Database Service
   - Supports MySql, Amazon Aurora, Postgres SQL, Sql Server and Oracle
+  - Will be inside VPC
   
 - #### [DynamoDB](https://github.com/CharlesRajendran/aws-training/blob/master/aws-dynamo-db.md)
   - No Sql DB Service
