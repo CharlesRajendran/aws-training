@@ -20,4 +20,4 @@
   - Allow developer to create and deploy API's
   - Serverless service
 
-<div align="center"><img src="https://github.com/CharlesRajendran/aws-training/blob/master/images/13.png" /> </div>
+<div align="center"><img src="https://github.com/CharlesRajendran/aws-training/blob/master/images/19.JPG" /> </div>
