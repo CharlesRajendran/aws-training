@@ -16,5 +16,5 @@
   - When the demand increase we can have a queue setup, so when the demand increase it will have the messages in queue
   - We can setup cloud watch to increase the instances in the auto scaling group when the messages in queue exceedes the threshold value.
   
-  
+![](https://github.com/CharlesRajendran/aws-training/blob/master/images/20.JPG)
   
