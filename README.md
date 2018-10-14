@@ -5,3 +5,4 @@
 - #### [Compute Services](https://github.com/CharlesRajendran/aws-training/blob/master/compute-services.md)
 - #### [Network Services](https://github.com/CharlesRajendran/aws-training/blob/master/networking-services.md)
 - #### [Management Services](https://github.com/CharlesRajendran/aws-training/blob/master/management-services.md)
+- #### [Application Integratoin Services](https://github.com/CharlesRajendran/aws-training/blob/master/application-integration.md)
