@@ -8,3 +8,4 @@
 - #### [Management Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/management-services.md)
 - #### [Application Integratoin Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/application-integration.md)
 - #### [Customer Engagement Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/customer-engagement-service.md)
+- #### [Analytics Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/analytics-services.md)
