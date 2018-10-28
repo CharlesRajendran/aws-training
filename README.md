@@ -1,4 +1,5 @@
 # aws-training
+![](https://d1.awsstatic.com/Digital%20Marketing/House/temp/logo_aws-educate_light.8a107f05996892b795db30104d5fb968d4619246.png)
 - #### [Overview](https://github.com/CharlesRajendran/aws-training/blob/master/Files/aws-overview.md)
 - #### [Storage Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/storage-services.md)
 - #### [Database Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/database-services.md)
