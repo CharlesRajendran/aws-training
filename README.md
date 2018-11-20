@@ -10,3 +10,4 @@
 - #### [Customer Engagement Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/customer-engagement-service.md)
 - #### [Analytics Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/analytics-services.md)
 - #### [Machine Learning Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/ml-services.md)
+- #### [Security and Idenity Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/security-services.md)
