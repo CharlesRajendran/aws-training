@@ -39,7 +39,7 @@
   - CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue. 
   - You can get started quickly by using prepackaged build environments, or you can create custom build environments that use your own build tools.
   
-<div align="center"><img src ="https://cdn-images-1.medium.com/max/1600/1*N6U0bYzIKUw6ZeA5Khnw5A.gif" /></div>
+<div align="center"><img src ="https://github.com/CharlesRajendran/aws-training/blob/master/images/code-build.gif" /></div>
 
 - #### [Amazon Code Deploy](https://github.com/CharlesRajendran/aws-training/blob/master/Files/code-deploy.md)
   - AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers.
