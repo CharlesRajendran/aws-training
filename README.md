@@ -15,4 +15,4 @@
   - #### [Developer Tools Services](https://github.com/CharlesRajendran/aws-training/blob/master/Files/developer-tools.md)
 
 - ### Example Usage
-  - #### [eploying an application with Elastic Beanstalk](https://github.com/CharlesRajendran/aws-training/blob/master/Files/aws-elastic-bean-stock.md)
+  - #### [Deploying an application with Elastic Beanstalk](https://github.com/CharlesRajendran/aws-training/blob/master/Files/aws-elastic-bean-stock.md)
