@@ -24,7 +24,7 @@
 
 - ##### Step 4 - That's it crete the application.
 <div align="center"><img src ="https://github.com/CharlesRajendran/aws-training/blob/master/images/ElasticBeansTalk/4.JPG" /></div>
-  - ##### After creating the application you could certain things created, since I have created the app with `Low Cost` option, it has created a EC2 instance and it has given a url to my application. If I created with `High Availability` options, then you could also see auto scaling groups and load balancers created. Also there will be a s3 bucket created to hold the files of the application.
+  - After creating the application you could certain things created, since I have created the app with `Low Cost` option, it has created a EC2 instance and it has given a url to my application. If I created with `High Availability` options, then you could also see auto scaling groups and load balancers created. Also there will be a s3 bucket created to hold the files of the application.
 <div align="center"><img src ="https://github.com/CharlesRajendran/aws-training/blob/master/images/ElasticBeansTalk/5.JPG" /></div>
 
 That's it, then you can see the created application by visiting the url. The sample application will look like some thing in the below image. 
