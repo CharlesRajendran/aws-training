@@ -31,3 +31,7 @@ That's it, then you can see the created application by visiting the url. The sam
 <div align="center"><img src ="https://github.com/CharlesRajendran/aws-training/blob/master/images/ElasticBeansTalk/6.png" /></div>
 
 When deleting the application, all the create services will be removed. make sure to delete, if you are just practicing, otherwise you will endup with a bill.
+
+#### Working with AWS Cli (Articles)
+- [Set up the Elastic Beanstalk Command Line Interface](https://aws.amazon.com/getting-started/tutorials/set-up-command-line-elastic-beanstalk/)
+- [Deploy and Monitor an Application from the Command Line](https://aws.amazon.com/getting-started/tutorials/deploy-app-command-line-elastic-beanstalk/)
