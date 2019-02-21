@@ -35,3 +35,4 @@ When deleting the application, all the create services will be removed. make sur
 #### Working with AWS Cli (Articles)
 - [Set up the Elastic Beanstalk Command Line Interface](https://aws.amazon.com/getting-started/tutorials/set-up-command-line-elastic-beanstalk/)
 - [Deploy and Monitor an Application from the Command Line](https://aws.amazon.com/getting-started/tutorials/deploy-app-command-line-elastic-beanstalk/)
+- [Complete AWS EB Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
