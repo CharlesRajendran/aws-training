@@ -6,6 +6,8 @@
 4. Create `cloudfront distribution` to host the files into edge location for quick access
 5. Use `Route53` Service to control the DNS Mapping for all the edge locations
 6. Enable SSL Encryption using `AWS Certificate Manager`
+<br>
+
 ![Planing](https://github.com/CharlesRajendran/aws-training/blob/master/images/StaticSiteHosting-S3/1.JPG)
 <hr>
 
