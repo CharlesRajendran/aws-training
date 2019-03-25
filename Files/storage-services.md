@@ -1,6 +1,13 @@
 - #### [S3 - Simple Storage Service](https://github.com/CharlesRajendran/aws-training/blob/master/Files/aws-s3.md)
   - S3 is a serverless service which means we don't have to manages the opreational things, aws will manage for us.
   - In S3, we have something call bucket, which can take any type of files or objects.
+  - Allow Versioning
+  - Unlimitted storage
+  - Different Storage Classes
+    - Standard Storage
+    - Infrequent Storage
+    - Old archive
+  - with IAM can authorise data
  
 - #### [Amazon Glacier](https://github.com/CharlesRajendran/aws-training/blob/master/Files/aws-glacier.md)
   - Amazon glacier is the cheapest storage service in aws
